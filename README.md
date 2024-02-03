@@ -12,7 +12,7 @@ This is a Java project that compares two CSV files and prints out some statistic
 
 ## How to build and run
 
-- Download the source code as a RAR file and extract it
+- Clone the repo or download the source code as a ZIP file and extract it
 - Download the dependencies in the pom.xml
 - Navigate to the root directory of the project
 - To compile and run the unit tests, run: mvn clean install
